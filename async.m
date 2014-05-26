@@ -5,6 +5,8 @@
 // Language: Objective-C
 // Completion Scope: Function or Method
 
+// IDECodeSnippetCompletionPrefix:  async
+
 dispatch_async(dispatch_get_global_queue(<#dispatch_queue_priority_t priority#>, <#unsigned long flags#>), ^(void) {
     <#code#>
     
